@@ -1,0 +1,37 @@
+*{
+    margin: 0; 
+    box-sizing: border-box;
+}
+
+
+body {background-color: blue;
+    background-image: url("../images/F4.png");
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+#one { border: solid 2px #E51837;
+    border-radius: 50px;
+
+}
+
+nav {
+ 
+    font-size: 25px;
+   padding: 5px;
+   background-color: white;
+   font-weight: 600;  
+
+}
+a{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+#joe  {
+    visibility: hidden;
+}
